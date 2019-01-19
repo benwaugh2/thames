@@ -1,0 +1,19 @@
+body { 
+ margin-left: 10%;  margin-right: 10%;
+ color: white;   background: black;
+}
+table, td, th { 
+ color: white;   background: black;
+}
+
+a:link { color: #3399FF; }      /* for unvisited links */
+a:visited { color: #9966CC; } /* for visited links */
+a:active { color: #FF0000; }  /* when link is clicked */
+
+p { color: white;   background: black;  text-indent: 0em; }
+p.address { text-indent: 0em; margin-left: 2em; }
+p.info { text-indent: 0em;  margin-left: 2em;  font-size: 120%; }
+blockquote { font-style: italic; }
+
+h1 { color: #FFFF99; }
+h2 { color: #FFFF99; }

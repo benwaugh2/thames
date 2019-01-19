@@ -1,0 +1,13 @@
+body { 
+ margin-left: 0%;  margin-right: 0%;
+ color: black;   background: white;
+}
+p { text-indent: 2em; }
+p.first {text-indent: 0em;}
+p.cont {text-indent: 0em;}
+p.caption {margin-left: 10%;  margin-right: 10%;}
+p.note { margin-top: 0;  margin-bottom: 0; font-size: 80%; }
+p.xlist { text-indent: 0em; margin-top: 2em;  margin-bottom: 0; font-weight: bold; }
+p.xlink { text-indent: 0em; margin-top: 0.4em;  margin-bottom: 0; }
+blockquote { font-style: italic; }
+blockquote.indent { text-indent: 2em; }
